@@ -1,33 +1,54 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
+import { useState, useEffect } from 'react'
 import './App.css'
 
 function App() {
-  const [count, setCount] = useState(0)
+  const [cv, setCv] = useState(null)
+
+  useEffect(() => {
+    fetch('/cv.json')
+      .then(res => res.json())
+      .then(data => setCv(data))
+  }, [])
+
+  if (!cv) return <p>Loading...</p>
 
   return (
     <>
-      <div>
-        <a href="https://vite.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
-      </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
+      <h1>{cv.name}</h1>
+
+      {cv.experience.length > 0 && (
+        <section>
+          <h2>Experience</h2>
+          {cv.experience.map((exp, i) => (
+            <div key={i}>
+              <h3>{exp.role} - {exp.company}</h3>
+              <p>{exp.period}</p>
+              <p>{exp.description}</p>
+            </div>
+          ))}
+        </section>
+      )}
+
+      {cv.education.length > 0 && (
+        <section>
+          <h2>Education</h2>
+          {cv.education.map((edu, i) => (
+            <div key={i}>
+              <h3>{edu.degree} - {edu.school}</h3>
+              <p>{edu.year}</p>
+            </div>
+          ))}
+        </section>
+      )}
+
+      {cv.skills.length > 0 && (
+        <section>
+          <h2>Skills</h2>
+          <ul>
+            {cv.skills.map((skill, i) => <li key={i}>{skill}</li>)}
+          </ul>
+        </section>
+      )}
     </>
   )
 }
