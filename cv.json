@@ -1,6 +1,153 @@
 {
-  "name": "Rui Xue",
-  "experience": [],
-  "education": [],
-  "skills": []
+  "personalInfo": {
+    "familyName": "Xue",
+    "firstName": "Rui",
+    "city": "Espoo",
+    "phone": "+358 (0)469590654",
+    "email": "ruixue.fi@gmail.com",
+    "github": "http://github.com/rxue"
+  },
+  "experience": [
+    {
+      "period": "Jun 2023 – July 2025",
+      "employer": "FA Solutions",
+      "sector": "Software Development",
+      "title": "Senior Backend Developer (Java)",
+      "workingLanguage": "English, Finnish",
+      "responsibilities": [
+        "Back-end development of Asset management software product, financial calculation engine, with domain-driven design practice",
+        "Legacy code base maintenance and new feature implementation of core product (Java SE 17) originally developed with Spring Boot and Vaadin",
+        "Investment and accounting logic design and implementation",
+        "Code level architectural design",
+        "Code review",
+        "Basic operations with Kubernetes (kubectl) in Azure cluster containing many microservices",
+        "Bitbucket CI pipeline optimization",
+        "Keycloak maintenance",
+        "Product release",
+        "Shell script and Python automation"
+      ],
+      "technicalStack": ["Java SE 17", "Spring Boot", "Vaadin", "design patterns and principles", "software architecture", "JUnit 5", "Test Container", "GIT", "Bitbucket", "Maven", "Continuous Integration", "IntelliJ", "Agile", "Azure", "Kubernetes", "Helm", "Python", "Shell"]
+    },
+    {
+      "period": "Nov 2020 – Jun 2023",
+      "employer": "Suomen sijoitustutkimus",
+      "sector": "Software Development",
+      "title": "Senior Software Designer (Java)",
+      "workingLanguage": "English, Finnish",
+      "responsibilities": [
+        "Back-end development of in-house software product, financial calculation engine, with domain-driven design practice",
+        "Legacy code base maintenance of core product with monolith structure (Java SE 8)",
+        "Financial and accounting batch calculation logic design and implementation in Java SE 8-11",
+        "Code level architectural design",
+        "Basic operations on AWS",
+        "Shell and Python script automation"
+      ],
+      "technicalStack": ["Java SE 8-11", "design patterns and principles", "software architecture", "JUnit 5", "GIT", "Bitbucket", "GitLab", "Maven", "Continuous Integration", "IntelliJ", "Agile", "AWS", "Python", "Shell"]
+    },
+    {
+      "period": "May 2019 – October 2020",
+      "employer": "Signant Health",
+      "sector": "Software Development",
+      "title": "Software Designer (Java)",
+      "workingLanguage": "English",
+      "responsibilities": [
+        "Software product development with domain-driven design practice in scrum team",
+        "Legacy code maintenance (J2EE)",
+        "Complicated back-end business logic design and implementation in Java SE 8 and Java EE 7",
+        "REST API implementation with Jersey",
+        "JSF, EJB, JMS",
+        "Scratched the surface of LDAP (Ping Directory), SCIM, SSO"
+      ],
+      "technicalStack": ["Java SE 8", "Java EE 7", "design patterns and principles", "software architecture", "REST API", "LDAP", "SCIM", "SSO", "JSF", "Jersey", "JUnit", "JMockit", "GIT", "Gerrit", "Maven", "Jenkins", "Eclipse", "IntelliJ", "Agile", "Scrum"]
+    },
+    {
+      "period": "December 2017 – May 2019",
+      "employer": "Software Point Oy",
+      "sector": "Software Development",
+      "title": "Java Developer",
+      "workingLanguage": "Finnish, English",
+      "responsibilities": [
+        "Software product development with Agile",
+        "Complicated business process implementation in legacy Java and Java SE 8",
+        "Front-end Javascript work as minor"
+      ],
+      "technicalStack": ["Java SE 8", "design patterns and principles", "software architecture", "JUnit", "Mockito", "JavaScript", "jQuery", "Ajax", "SVN", "Maven", "Jenkins", "Docker", "IntelliJ", "Agile", "Jira", "Confluence"]
+    },
+    {
+      "period": "June 2015 – October 2017",
+      "employer": "Affecto",
+      "sector": "Software and consultant",
+      "title": "Consultant",
+      "workingLanguage": "Finnish",
+      "responsibilities": [
+        "Big data ETL development in MapR's Hadoop Ecosystem inside Linux cluster",
+        "Linux cluster maintenance",
+        "Workflow automation with Bash scripting and Oozie",
+        "Basic Hadoop MapReduce coding",
+        "Relational databases",
+        "Web Form application and REST API implementation with Spring 4, including Spring Web MVC, Hibernate, with Java 8"
+      ],
+      "technicalStack": ["Hadoop 2", "SQL", "MySQL", "Spark", "Oozie", "Zookeeper", "MapR", "AWS S3", "ELK", "Java 8", "Spring 4", "Spring Boot", "Hibernate", "Tomcat", "Bash", "Ansible", "Linux cluster", "Eclipse", "Maven", "Git", "REST API", "Agile", "JUnit 5"]
+    },
+    {
+      "period": "January 2015 – June 2015",
+      "employer": "Aalto University",
+      "sector": "Education institution",
+      "title": "Thesis Worker",
+      "workingLanguage": "English",
+      "responsibilities": [
+        "Working on thesis subject – SQL Engines for Big Data Analytics: SQL on Hadoop"
+      ],
+      "technicalStack": ["Hadoop", "SQL", "Hive", "Spark", "Spark SQL", "Big Data", "Bash", "Java", "Scala", "R", "Eclipse", "Maven", "Git", "Linux cluster", "SLURM"]
+    },
+    {
+      "period": "May 2014 – August 2014",
+      "employer": "RAY (Raha-automaattiyhdistys)",
+      "sector": "Gambling game industry",
+      "title": "Technical Summer Trainee",
+      "workingLanguage": "Finnish",
+      "responsibilities": [
+        "Statistical hypothesis tests implementation in C with standard C99"
+      ],
+      "technicalStack": ["C", "Make", "Git", "Linux", "statistics"]
+    },
+    {
+      "period": "May 2007 – June 2011",
+      "employer": "Accenture Oyj",
+      "sector": "Software and consultant",
+      "title": "Analyst Programmer",
+      "workingLanguage": "English",
+      "responsibilities": [
+        "Data export from Oracle database to Microsoft Excel with Java and SQL Developer",
+        "SQL optimization",
+        "Functional design and implementation documentation",
+        "Relational database system design implementation in financial transaction system"
+      ],
+      "technicalStack": ["Oracle database", "SQL", "JDBC", "SVN", "documentation", "financial transaction system", "waterfall"]
+    }
+  ],
+  "education": [
+    {
+      "period": "September 2008 – December 2015",
+      "school": "Aalto University",
+      "degree": "Master of Science in Technology",
+      "subjects": "IT, major in software technology (full-time working until summer 2011)"
+    },
+    {
+      "period": "September 2003 – May 2007",
+      "school": "Turku University of Applied Science",
+      "degree": "BBA",
+      "subjects": "Business IT (specialized in IT)"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Finnish, English",
+      "level": "Excellent"
+    },
+    {
+      "language": "Chinese",
+      "level": "Native"
+    }
+  ]
 }
