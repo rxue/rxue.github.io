@@ -22,6 +22,20 @@ function App() {
             <p key={key}><strong>{key}:</strong> {key === 'github' ? <a href={value} target="_blank" rel="noreferrer">{value}</a> : value}</p>
           ))}
       </section>
+      <section>
+        <h2>Work Experience</h2>
+        {cv.experience.map((job, index) => (
+          <div key={index}>
+            <h3>{job.title}</h3>
+            <p><strong>{job.employer}</strong> | {job.period}</p>
+            <p><em>{job.sector}</em> &mdash; Working language: {job.workingLanguage}</p>
+            <ul>
+              {job.responsibilities.map((r, i) => <li key={i}>{r}</li>)}
+            </ul>
+            <p><strong>Tech stack:</strong> {job.technicalStack.join(', ')}</p>
+          </div>
+        ))}
+      </section>
     </>
   )
 }
