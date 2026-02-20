@@ -91,6 +91,7 @@ function App() {
 
   return (
     <>
+      <div className="watermark">implemented in Vibe Coding</div>
       <a href="#" className="download-link" onClick={handleDownloadPDF}>Download PDF</a>
       <PersonalInfo personalInfo={cv.personalInfo} />
       <hr className="section-divider" />

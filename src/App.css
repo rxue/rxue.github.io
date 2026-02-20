@@ -41,6 +41,19 @@
   color: #888;
 }
 
+.watermark {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) rotate(-30deg);
+  font-size: 5rem;
+  color: rgba(200, 200, 200, 0.3);
+  white-space: nowrap;
+  pointer-events: none;
+  z-index: -1;
+  user-select: none;
+}
+
 .download-link {
   font-size: 0.75rem;
   position: fixed;
