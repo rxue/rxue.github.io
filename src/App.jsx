@@ -91,9 +91,9 @@ function App() {
 
   return (
     <>
-      <a href="#" onClick={handleDownloadPDF}>Download PDF</a>
+      <a href="#" className="download-link" onClick={handleDownloadPDF}>Download PDF</a>
       <PersonalInfo personalInfo={cv.personalInfo} />
-      <hr style={{borderColor: '#f8f8f8'}} />
+      <hr className="section-divider" />
       <Experience experience={cv.experience} />
     </>
   )
