@@ -1,5 +1,6 @@
 import { useState, useEffect } from 'react'
 import jsPDF from 'jspdf'
+import PersonalInfo from './PersonalInfo'
 import './App.css'
 
 function App() {
