@@ -1,6 +1,6 @@
 function renderValue(key, value) {
   if (key === 'github') return <a href={value} target="_blank" rel="noreferrer">{value}</a>
-  if (key === 'phone') return <span style={{backgroundColor: 'black', color: 'black', cursor: 'default'}}>{value}</span>
+  if (key === 'phone') return <span style={{backgroundColor: 'black', color: 'black', cursor: 'default', userSelect: 'none'}}>{value}</span>
   return value
 }
 
