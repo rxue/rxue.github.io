@@ -14,6 +14,7 @@ function App() {
 
   return (
     <>
+      <a href="#">Download PDF</a>
       <section>
         <p><strong>Name:</strong> {cv.personalInfo.familyName} {cv.personalInfo.firstName}</p>
         {Object.entries(cv.personalInfo)
