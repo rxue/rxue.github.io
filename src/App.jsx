@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react'
 import { Routes, Route } from 'react-router'
-import CV from './components/cv'
+import CV from './components/CV'
 import './App.css'
 
 function App() {
