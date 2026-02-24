@@ -1,0 +1,814 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 4977
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F2 18 Tf
+20.6999999999999993 TL
+0 g
+56.6929133858267775 785.1970866141732586 Td
+(Rui Xue) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 756.8506299212598378 Td
+(city: Espoo) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 739.8427559055118081 Td
+(phone: +358 \(0\)469590654) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 722.8348818897637784 Td
+(email: ruixue.fi@gmail.com) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 705.8270078740157487 Td
+(github: http://github.com/rxue) Tj
+ET
+BT
+/F2 14 Tf
+16.0999999999999979 TL
+0 g
+56.6929133858267775 671.8112598425196893 Td
+(Work Experience) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 649.1340944881889072 Td
+(Senior Backend Developer \(Java\)) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 632.1262204724408775 Td
+(FA Solutions | Jun 2023 – July 2025) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 617.952992125984224 Td
+(Software Product Development — Working language: English, Finnish) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 600.9451181102361943 Td
+(• Back-end development of Asset management software product, financial calculation engine, with) Tj
+T* (domain-driven design practice) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 572.5986614173227736 Td
+(• Legacy code base maintenance and new feature implementation of core product \(Java SE 17\) originally) Tj
+T* (developed with Spring Boot and Vaadin) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 544.2522047244094665 Td
+(• Investment and accounting logic design and implementation) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 530.0789763779526993 Td
+(• Code level architectural design) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 515.9057480314959321 Td
+(• Code review) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 501.7325196850393354 Td
+(• Vibe coding) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 487.559291338582625 Td
+(• Basic operations with Kubernetes \(kubectl\) in Azure cluster containing many microservices) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 473.3860629921259147 Td
+(• Bitbucket CI pipeline optimization) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 459.2128346456692611 Td
+(• Keycloak maintenance) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 445.0396062992125508 Td
+(• Product release) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 430.8663779527558404 Td
+(• Shell script and Python automation) Tj
+ET
+BT
+/F3 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 405.3545669291337958 Td
+(Tech stack: Java SE 17, Spring Boot, Vaadin, design patterns and principles, software architecture, JUnit 5,) Tj
+T* (Test Container, GIT, Bitbucket, Maven, Continuous Integration, IntelliJ, Agile, Azure, Kubernetes, Helm,) Tj
+T* (Python, Shell) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 345.8270078740156919 Td
+(Senior Software Designer \(Java\)) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 328.8191338582676053 Td
+(Suomen sijoitustutkimus | Nov 2020 – Jun 2023) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 314.6459055118109518 Td
+(In-house Software product Development — Working language: English, Finnish) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 297.6380314960629221 Td
+(• Back-end development of in-house software product, financial calculation engine, with domain-driven design) Tj
+T* (practice) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 269.2915748031495013 Td
+(• Legacy code base maintenance of core product with monolith structure \(Java SE 8\)) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 255.1183464566928478 Td
+(• Financial and accounting batch calculation logic design and implementation in Java SE 8-11) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 240.9451181102361943 Td
+(• Code level architectural design) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 226.7718897637794271 Td
+(• Basic operations on AWS) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 212.5986614173227736 Td
+(• Shell and Python script automation) Tj
+ET
+BT
+/F3 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 187.086850393700729 Td
+(Tech stack: Java SE 8-11, design patterns and principles, software architecture, JUnit 5, GIT, Bitbucket,) Tj
+T* (GitLab, Maven, Continuous Integration, IntelliJ, Agile, AWS, Python, Shell) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 141.7325196850392786 Td
+(Software Designer \(Java\)) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 124.7246456692912489 Td
+(Signant Health | May 2019 – October 2020) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 110.5514173228345953 Td
+(Software Product Development \(R & D\) — Working language: English) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 93.5435433070865656 Td
+(• Software product development with domain-driven design practice in scrum team) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 79.3703149606297984 Td
+(• Legacy code maintenance \(J2EE\)) Tj
+ET
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 6 0 R
+>>
+endobj
+6 0 obj
+<<
+/Length 4652
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 785.1970866141732586 Td
+(• Complicated back-end business logic design and implementation in Java SE 8 and Java EE 7) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 771.0238582677164914 Td
+(• REST API implementation with Jersey) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 756.8506299212598378 Td
+(• JSF, EJB, JMS) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 742.6774015748030706 Td
+(• Scratched the surface of LDAP \(Ping Directory\), SCIM, SSO) Tj
+ET
+BT
+/F3 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 717.1655905511811397 Td
+(Tech stack: Java SE 8, Java EE 7, design patterns and principles, software architecture, REST API, LDAP,) Tj
+T* (SCIM, SSO, JSF, Jersey, JUnit, JMockit, GIT, Gerrit, Maven, Jenkins, Eclipse, IntelliJ, Agile, Scrum) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 671.8112598425196893 Td
+(Java Developer) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 654.8033858267716596 Td
+(Software Point Oy | December 2017 – May 2019) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 640.6301574803148924 Td
+(Software Product Development — Working language: Finnish, English) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 623.6222834645668627 Td
+(• Software product development with Agile) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 609.4490551181102092 Td
+(• Complicated business process implementation in legacy Java and Java SE 8) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 595.2758267716535556 Td
+(• Front-end Javascript work as minor) Tj
+ET
+BT
+/F3 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 569.7640157480313974 Td
+(Tech stack: Java SE 8, design patterns and principles, software architecture, JUnit, Mockito, JavaScript,) Tj
+T* (jQuery, Ajax, SVN, Maven, Jenkins, Docker, IntelliJ, Agile, Jira, Confluence) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 524.4096850393700606 Td
+(Consultant) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 507.4018110236219741 Td
+(Affecto | June 2015 – October 2017) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 493.2285826771653205 Td
+(Outsourcing Software Projects — Working language: Finnish) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 476.2207086614172908 Td
+(• Big data ETL development in MapR's Hadoop Ecosystem inside Linux cluster) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 462.0474803149605805 Td
+(• Linux cluster maintenance) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 447.8742519685038701 Td
+(• Workflow automation with Bash scripting and Oozie) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 433.7010236220471597 Td
+(• Basic Hadoop MapReduce coding) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 419.5277952755905062 Td
+(• Relational databases) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 405.3545669291337958 Td
+(• Web Form application and REST API implementation with Spring 4, including Spring Web MVC, Hibernate,) Tj
+T* (with Java 8) Tj
+ET
+BT
+/F3 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 365.6695275590550409 Td
+(Tech stack: Hadoop 2, SQL, MySQL, Spark, Oozie, Zookeeper, MapR, AWS S3, ELK, Java 8, Spring 4,) Tj
+T* (Spring Boot, Hibernate, Tomcat, Bash, Ansible, Linux cluster, Eclipse, Maven, Git, REST API, Agile, JUnit 5) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 320.3151968503935905 Td
+(Thesis Worker) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 303.3073228346455608 Td
+(Aalto University | January 2015 – June 2015) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 289.1340944881889072 Td
+(Education institution — Working language: English) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 272.1262204724408775 Td
+(• Working on thesis subject – SQL Engines for Big Data Analytics: SQL on Hadoop) Tj
+ET
+BT
+/F3 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 246.614409448818833 Td
+(Tech stack: Hadoop, SQL, Hive, Spark, Spark SQL, Big Data, Bash, Java, Scala, R, Eclipse, Maven, Git,) Tj
+T* (Linux cluster, SLURM) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 201.2600787401573825 Td
+(Technical Summer Trainee) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 184.2522047244093528 Td
+(RAY \(Raha-automaattiyhdistys\) | May 2014 – August 2014) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 170.0789763779526993 Td
+(Gambling game industry — Working language: Finnish) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 153.0711023622046696 Td
+(• Statistical hypothesis tests implementation in C with standard C99) Tj
+ET
+BT
+/F3 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 127.559291338582625 Td
+(Tech stack: C, Make, Git, Linux, statistics) Tj
+ET
+endstream
+endobj
+7 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 8 0 R
+>>
+endobj
+8 0 obj
+<<
+/Length 1106
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 785.1970866141732586 Td
+(Analyst Programmer) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 768.1892125984252289 Td
+(Accenture Oyj | May 2007 – June 2011) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 754.0159842519684616 Td
+(Outsourcing Software Projects — Working language: English) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 737.0081102362204319 Td
+(• Data export from Oracle database to Microsoft Excel with Java and SQL Developer) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 722.8348818897637784 Td
+(• SQL optimization) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 708.6616535433070112 Td
+(• Functional design and implementation documentation) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 694.4884251968503577 Td
+(• Relational database system design implementation in financial transaction system) Tj
+ET
+BT
+/F3 10 Tf
+11.5 TL
+0 g
+56.6929133858267775 668.9766141732283131 Td
+(Tech stack: Oracle database, SQL, JDBC, SVN, documentation, financial transaction system, waterfall) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R 7 0 R ]
+/Count 3
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+19 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+20 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+21 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+22 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 9 0 R
+/F2 10 0 R
+/F3 11 0 R
+/F4 12 0 R
+/F5 13 0 R
+/F6 14 0 R
+/F7 15 0 R
+/F8 16 0 R
+/F9 17 0 R
+/F10 18 0 R
+/F11 19 0 R
+/F12 20 0 R
+/F13 21 0 R
+/F14 22 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+23 0 obj
+<<
+/Producer (jsPDF 4.2.0)
+/CreationDate (D:20260221235332+02'00')
+>>
+endobj
+24 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 25
+0000000000 65535 f 
+0000011317 00000 n 
+0000013150 00000 n 
+0000000015 00000 n 
+0000000152 00000 n 
+0000005181 00000 n 
+0000005318 00000 n 
+0000010022 00000 n 
+0000010159 00000 n 
+0000011386 00000 n 
+0000011511 00000 n 
+0000011642 00000 n 
+0000011776 00000 n 
+0000011914 00000 n 
+0000012038 00000 n 
+0000012167 00000 n 
+0000012299 00000 n 
+0000012435 00000 n 
+0000012563 00000 n 
+0000012690 00000 n 
+0000012819 00000 n 
+0000012952 00000 n 
+0000013054 00000 n 
+0000013402 00000 n 
+0000013488 00000 n 
+trailer
+<<
+/Size 25
+/Root 24 0 R
+/Info 23 0 R
+/ID [ <31DF49DC512F1763F24147B1E0E2AEC2> <31DF49DC512F1763F24147B1E0E2AEC2> ]
+>>
+startxref
+13592
+%%EOF
