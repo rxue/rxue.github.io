@@ -1,0 +1,155 @@
+{
+  "language": "fi",
+  "personalInfo": {
+    "familyName": "Xue",
+    "firstName": "Rui",
+    "city": "Espoo",
+    "phone": "+358 (0)469590654",
+    "email": "ruixue.fi@gmail.com",
+    "github": "http://github.com/rxue"
+  },
+  "experience": [
+    {
+      "period": "Kesäkuu 2023 – Heinäkuu 2025",
+      "employer": "FA Solutions",
+      "sector": "Ohjelmistotuotekehitys",
+      "title": "Vanhempi taustajärjestelmäkehittäjä (Java)",
+      "responsibilities": [
+        "Omaisuudenhallintaohjelmistotuotteen taustajärjestelmäkehitys, taloudellinen laskentamoottori, toimialaohjautuvalla suunnittelukäytännöllä",
+        "Ydintuotteen (Java SE 17) vanhan koodipohjan ylläpito ja uusien ominaisuuksien toteutus, alun perin kehitetty Spring Bootilla ja Vaadinilla",
+        "Sijoitus- ja kirjanpitologiikan suunnittelu ja toteutus",
+        "Kooditason arkkitehtuurisuunnittelu",
+        "Koodikatselmointi",
+        "Vibe-koodaus",
+        "Perustoiminnot Kubernetesillä (kubectl) Azure-klusterissa, jossa on useita mikropalveluita",
+        "Bitbucket CI-putkilinjan optimointi",
+        "Keycloakin ylläpito",
+        "Tuotejulkaisu",
+        "Shell-skripti ja Python-automaatio"
+      ],
+      "workingLanguage": "Englanti, suomi",
+      "technicalStack": ["Java SE 17", "Spring Boot", "Vaadin", "design patterns and principles", "software architecture", "JUnit 5", "Test Container", "GIT", "Bitbucket", "Maven", "Continuous Integration", "IntelliJ", "Agile", "Azure", "Kubernetes", "Helm", "Python", "Shell"]
+    },
+    {
+      "period": "Marraskuu 2020 – Kesäkuu 2023",
+      "employer": "Suomen sijoitustutkimus",
+      "sector": "Talon sisäinen ohjelmistotuotekehitys",
+      "title": "Vanhempi ohjelmistosuunnittelija (Java)",
+      "responsibilities": [
+        "Sisäisen ohjelmistotuotteen taustajärjestelmäkehitys, taloudellinen laskentamoottori, toimialaohjautuvalla suunnittelukäytännöllä",
+        "Ydintuotteen vanhan koodipohjan ylläpito monoliittirakenteella (Java SE 8)",
+        "Taloudellisen ja kirjanpidon eräajojen laskentalogiikan suunnittelu ja toteutus Java SE 8-11:ssä",
+        "Kooditason arkkitehtuurisuunnittelu",
+        "Perustoiminnot AWS:ssä",
+        "Shell- ja Python-skriptiautomaatio"
+      ],
+      "workingLanguage": "Englanti, suomi",
+      "technicalStack": ["Java SE 8-11", "design patterns and principles", "software architecture", "JUnit 5", "GIT", "Bitbucket", "GitLab", "Maven", "Continuous Integration", "IntelliJ", "Agile", "AWS", "Python", "Shell"]
+    },
+    {
+      "period": "Toukokuu 2019 – Lokakuu 2020",
+      "employer": "Signant Health",
+      "sector": "Ohjelmistotuotekehitys (T & K)",
+      "title": "Ohjelmistosuunnittelija (Java)",
+      "responsibilities": [
+        "Ohjelmistotuotekehitys toimialaohjautuvalla suunnittelukäytännöllä scrum-tiimissä",
+        "Vanhan koodin ylläpito (J2EE)",
+        "Monimutkaisen taustajärjestelmän liiketoimintalogiikan suunnittelu ja toteutus Java SE 8:ssa ja Java EE 7:ssä",
+        "REST API:n toteutus Jerseyllä",
+        "JSF, EJB, JMS",
+        "Pintaraapaisu LDAP:ista (Ping Directory), SCIM:istä, SSO:sta"
+      ],
+      "workingLanguage": "Englanti",
+      "technicalStack": ["Java SE 8", "Java EE 7", "design patterns and principles", "software architecture", "REST API", "LDAP", "SCIM", "SSO", "JSF", "Jersey", "JUnit", "JMockit", "GIT", "Gerrit", "Maven", "Jenkins", "Eclipse", "IntelliJ", "Agile", "Scrum"]
+    },
+    {
+      "period": "Joulukuu 2017 – Toukokuu 2019",
+      "employer": "Software Point Oy",
+      "sector": "Ohjelmistotuotekehitys",
+      "title": "Java-kehittäjä",
+      "responsibilities": [
+        "Ohjelmistotuotekehitys Agilella",
+        "Monimutkaisten liiketoimintaprosessien toteutus vanhassa Javassa ja Java SE 8:ssa",
+        "Käyttöliittymän JavaScript-työ sivuaineena"
+      ],
+      "workingLanguage": "Suomi, englanti",
+      "technicalStack": ["Java SE 8", "design patterns and principles", "software architecture", "JUnit", "Mockito", "JavaScript", "jQuery", "Ajax", "SVN", "Maven", "Jenkins", "Docker", "IntelliJ", "Agile", "Jira", "Confluence"]
+    },
+    {
+      "period": "Kesäkuu 2015 – Lokakuu 2017",
+      "employer": "Affecto",
+      "sector": "Ulkoistetut ohjelmistoprojektit",
+      "title": "Konsultti",
+      "responsibilities": [
+        "Big data ETL -kehitys MapR:n Hadoop-ekosysteemissä Linux-klusterissa",
+        "Linux-klusterin ylläpito",
+        "Työnkulun automaatio Bash-skripteillä ja Ooziella",
+        "Perustason Hadoop MapReduce -koodaus",
+        "Relaatiotietokannat",
+        "Web-lomakesovelluksen ja REST API:n toteutus Spring 4:llä, sisältäen Spring Web MVC:n, Hibernaten, Java 8:lla"
+      ],
+      "workingLanguage": "Suomi",
+      "technicalStack": ["Hadoop 2", "SQL", "MySQL", "Spark", "Oozie", "Zookeeper", "MapR", "AWS S3", "ELK", "Java 8", "Spring 4", "Spring Boot", "Hibernate", "Tomcat", "Bash", "Ansible", "Linux cluster", "Eclipse", "Maven", "Git", "REST API", "Agile", "JUnit 5"]
+    },
+    {
+      "period": "Tammikuu 2015 – Kesäkuu 2015",
+      "employer": "Aalto University",
+      "sector": "Koulutuslaitos",
+      "title": "Opinnäytetyöntekijä",
+      "responsibilities": [
+        "Opinnäytetyöaiheen parissa työskentely – SQL-moottorit Big Data -analytiikkaan: SQL Hadoopissa"
+      ],
+      "workingLanguage": "Englanti",
+      "technicalStack": ["Hadoop", "SQL", "Hive", "Spark", "Spark SQL", "Big Data", "Bash", "Java", "Scala", "R", "Eclipse", "Maven", "Git", "Linux cluster", "SLURM"]
+    },
+    {
+      "period": "Toukokuu 2014 – Elokuu 2014",
+      "employer": "RAY (Raha-automaattiyhdistys)",
+      "sector": "Rahapeliteollisuus",
+      "title": "Tekninen kesäharjoittelija",
+      "responsibilities": [
+        "Tilastollisten hypoteesitestien toteutus C:ssä standardin C99 mukaisesti"
+      ],
+      "workingLanguage": "Suomi",
+      "technicalStack": ["C", "Make", "Git", "Linux", "statistics"]
+    },
+    {
+      "period": "Toukokuu 2007 – Kesäkuu 2011",
+      "employer": "Accenture Oyj",
+      "sector": "Ulkoistetut ohjelmistoprojektit",
+      "title": "Analyytikko-ohjelmoija",
+      "responsibilities": [
+        "Datan vienti Oracle-tietokannasta Microsoft Exceliin Javalla ja SQL Developerilla",
+        "SQL-optimointi",
+        "Toiminnallinen suunnittelu ja toteutusdokumentaatio",
+        "Relaatiotietokantajärjestelmän suunnittelutoteutus taloudellisessa transaktiosysteemissä"
+      ],
+      "workingLanguage": "Englanti",
+      "technicalStack": ["Oracle database", "SQL", "JDBC", "SVN", "documentation", "financial transaction system", "waterfall"]
+    }
+  ],
+  "education": [
+    {
+      "period": "Syyskuu 2008 – Joulukuu 2015",
+      "school": "Aalto University",
+      "degree": "Diplomi-insinööri",
+      "subjects": "IT, pääaine ohjelmistotekniikka (kokoaikainen työ kesään 2011 asti)"
+    },
+    {
+      "period": "Syyskuu 2003 – Toukokuu 2007",
+      "school": "Turun ammattikorkeakoulu",
+      "degree": "Tradenomi",
+      "subjects": "Tietojenkäsittely (erikoistunut IT:hen)"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Suomi, englanti",
+      "level": "Erinomainen"
+    },
+    {
+      "language": "Kiina",
+      "level": "Äidinkieli"
+    }
+  ]
+}
