@@ -16,12 +16,7 @@ function App() {
 
   return (
     <Routes>
-      <Route path="/" element={
-        <>
-          <a href="/cv.pdf" className="download-link" download>Download PDF</a>
-          <CV json={cv} mode="html" />
-        </>
-      } />
+      <Route path="/" element={<CV json={cv} mode="html" />} />
       <Route path="/pdf" element={<CV json={cv} mode="pdf" />} />
     </Routes>
   )
