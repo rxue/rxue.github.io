@@ -1,4 +1,5 @@
 import { useState, useEffect } from 'react'
+import { Routes, Route } from 'react-router'
 import CV from './components/cv'
 import './App.css'
 
@@ -14,10 +15,15 @@ function App() {
   if (!cv) return <p>Loading...</p>
 
   return (
-    <>
-      <a href="/cv.pdf" className="download-link" download>Download PDF</a>
-      <CV json={cv} />
-    </>
+    <Routes>
+      <Route path="/" element={
+        <>
+          <a href="/cv.pdf" className="download-link" download>Download PDF</a>
+          <CV json={cv} mode="html" />
+        </>
+      } />
+      <Route path="/pdf" element={<CV json={cv} mode="pdf" />} />
+    </Routes>
   )
 }
 
