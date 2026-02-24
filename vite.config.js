@@ -6,7 +6,7 @@ export default defineConfig({
   plugins: [react()],
   preview: {
     port: 4173,
-    open: '/index.html',
+    open: '/',
     browser: 'google-chrome',
   },
 })
