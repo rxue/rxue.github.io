@@ -13,7 +13,12 @@ function App() {
 
   if (!cv) return <p>Loading...</p>
 
-  return <CV json={cv} />
+  return (
+    <>
+      <a href="/cv.pdf" className="download-link" download>Download PDF</a>
+      <CV json={cv} />
+    </>
+  )
 }
 
 export default App
