@@ -1,34 +1,43 @@
-[
-  {"attribute": "language", "translations": [{"language": "en", "value": "Language"}, {"language": "fi", "value": "Kieli"}]},
-  {
-    "attribute": "personalInfo",
-    "translations": [{"language": "en", "value": "Personal Information"}, {"language": "fi", "value": "Henkilökohtaiset tiedot"}],
-    "children": [
-      {"attribute": "familyName", "translations": [{"language": "en", "value": "Family Name"}, {"language": "fi", "value": "Sukunimi"}]},
-      {"attribute": "firstName", "translations": [{"language": "en", "value": "First Name"}, {"language": "fi", "value": "Etunimi"}]},
-      {"attribute": "city", "translations": [{"language": "en", "value": "City"}, {"language": "fi", "value": "Kaupunki"}]},
-      {"attribute": "phone", "translations": [{"language": "en", "value": "Phone"}, {"language": "fi", "value": "Puhelin"}]},
-      {"attribute": "email", "translations": [{"language": "en", "value": "Email"}, {"language": "fi", "value": "Sähköposti"}]},
-      {"attribute": "github", "translations": [{"language": "en", "value": "GitHub"}, {"language": "fi", "value": "GitHub"}]}
-    ]
+{
+  "personalInfo": {
+    "en": "Personal Information",
+    "fi": "Henkilökohtaiset tiedot",
+    "children": {
+      "familyName": {"en": "Family Name", "fi": "Sukunimi"},
+      "firstName": {"en": "First Name", "fi": "Etunimi"},
+      "location": {"en": "Location", "fi": "Kaupunki"},
+      "phone": {"en": "Phone", "fi": "Puhelin"},
+      "email": {"en": "Email", "fi": "Sähköposti"},
+      "github": {"en": "GitHub", "fi": "GitHub"}
+    }
   },
-  {
-    "attribute": "experience",
-    "translations": [{"language": "en", "value": "Experience"}, {"language": "fi", "value": "Työkokemus"}],
-    "children": [
-      {"attribute": "period", "translations": [{"language": "en", "value": "Period"}, {"language": "fi", "value": "Ajanjakso"}]},
-      {"attribute": "employer", "translations": [{"language": "en", "value": "Employer"}, {"language": "fi", "value": "Työnantaja"}]},
-      {"attribute": "sector", "translations": [{"language": "en", "value": "Sector"}, {"language": "fi", "value": "Toimiala"}]},
-      {"attribute": "title", "translations": [{"language": "en", "value": "Title"}, {"language": "fi", "value": "Titteli"}]},
-      {"attribute": "responsibilities", "translations": [{"language": "en", "value": "Responsibilities"}, {"language": "fi", "value": "Vastuualueet"}]},
-      {"attribute": "workingLanguage", "translations": [{"language": "en", "value": "Working Language"}, {"language": "fi", "value": "Työskentelykieli"}]},
-      {"attribute": "technicalStack", "translations": [{"language": "en", "value": "Technical Stack"}, {"language": "fi", "value": "Tekninen osaaminen"}]}
-    ]
+  "experience": {
+    "en": "Work Experience",
+    "fi": "Työkokemus",
+    "children": {
+      "period": {"en": "Period", "fi": "Ajanjakso"},
+      "employer": {"en": "Employer", "fi": "Työnantaja"},
+      "sector": {"en": "Sector", "fi": "Toimiala"},
+      "title": {"en": "Title", "fi": "Titteli"},
+      "responsibilities": {"en": "Responsibilities", "fi": "Vastuualueet"},
+      "workingLanguage": {"en": "Working Language", "fi": "Työskentelykieli"},
+      "technicalStack": {"en": "Technical Stack", "fi": "Tekninen osaaminen"}
+    }
   },
-  {"attribute": "education", "translations": [{"language": "en", "value": "Education"}, {"language": "fi", "value": "Koulutus"}]},
-  {"attribute": "school", "translations": [{"language": "en", "value": "School"}, {"language": "fi", "value": "Koulu"}]},
-  {"attribute": "degree", "translations": [{"language": "en", "value": "Degree"}, {"language": "fi", "value": "Tutkinto"}]},
-  {"attribute": "subjects", "translations": [{"language": "en", "value": "Subjects"}, {"language": "fi", "value": "Oppiaineet"}]},
-  {"attribute": "languages", "translations": [{"language": "en", "value": "Languages"}, {"language": "fi", "value": "Kielet"}]},
-  {"attribute": "level", "translations": [{"language": "en", "value": "Level"}, {"language": "fi", "value": "Taso"}]}
-]
+  "education": {
+    "en": "Education",
+    "fi": "Koulutus",
+    "children": {
+      "school": {"en": "School", "fi": "Koulu"},
+      "degree": {"en": "Degree", "fi": "Tutkinto"},
+      "subjects": {"en": "Subjects", "fi": "Oppiaineet"}
+    }
+  },
+  "languages": {
+    "en": "Languages",
+    "fi": "Kielet",
+    "children": {
+      "level": {"en": "Level", "fi": "Taso"}
+    }
+  }
+}

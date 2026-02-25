@@ -4,13 +4,13 @@ function renderValue(key, value, mode) {
   return value
 }
 
-function PersonalInfo({ personalInfo, mode }) {
+function PersonalInfo({ language, metadata, personalInfo, mode }) {
   const { familyName, firstName, ...rest } = personalInfo
   return (
     <section>
       <p><strong>{familyName} {firstName}</strong></p>
       {Object.entries(rest).map(([key, value]) => (
-        <p key={key}><strong>{key}:</strong> {renderValue(key, value, mode)}</p>
+        <p key={key}><strong>{metadata.children[key][language]}:</strong> {renderValue(key, value, mode)}</p>
       ))}
     </section>
   )
