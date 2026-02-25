@@ -1,9 +1,9 @@
 import { Link } from 'react-router'
 
-function HeaderBar({ mode }) {
+function HeaderBar({ language, mode }) {
     return (
         <div>
-            {mode === 'html' && <a href="/cv.pdf" className="download-link" download>Download PDF</a>}
+            {mode === 'html' && <a href={`/cv_${language}.pdf`} className="download-link" download>Download PDF</a>}
             <div className="language-links">
                 <Link to="/fi">suomeksi</Link>
                 {' | '}

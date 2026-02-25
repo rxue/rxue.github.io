@@ -9,7 +9,7 @@ function App() {
   return (
     <Routes>
       <Route path="/" element={<CV data={enData} metadata={metadata} mode="html" />} />
-      <Route path="/pdf" element={<CV data={enData} metadata={metadata} mode="pdf" />} />
+      <Route path="/en/pdf" element={<CV data={enData} metadata={metadata} mode="pdf" />} />
       <Route path="/fi" element={<CV data={fiData} metadata={metadata} mode="html" />} />
       <Route path="/fi/pdf" element={<CV data={fiData} metadata={metadata} mode="pdf" />} />
     </Routes>
