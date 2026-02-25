@@ -1,6 +1,21 @@
 import HeaderBar from './HeaderBar'
 import PersonalInfo from './PersonalInfo'
 
+function Education({ language, metadata, education }) {
+  return (
+    <section>
+      <h2>{metadata[language]}</h2>
+      {education.map((edu, index) => (
+        <div key={index} style={{marginTop: '3rem'}}>
+          <h3>{edu.degree} – {edu.school}</h3>
+          <p>{edu.period}</p>
+          <p><strong>{metadata.children.subjects[language]}:</strong> {edu.subjects}</p>
+        </div>
+      ))}
+    </section>
+  )
+}
+
 function Experience({ language, metadata, experience }) {
   return (
     <section>
@@ -29,6 +44,8 @@ function CV({ data, metadata, mode }) {
       <PersonalInfo language={data.language} metadata={metadata.personalInfo} personalInfo={data.personalInfo} mode={mode} />
       <hr className="section-divider" />
       <Experience language={data.language} metadata={metadata.experience} experience={data.experience} />
+      <hr className="section-divider" />
+      <Education language={data.language} metadata={metadata.education} education={data.education} />
     </>
   )
 }
