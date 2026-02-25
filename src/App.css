@@ -65,6 +65,21 @@
   color: #444;
 }
 
+.language-links {
+  font-size: 0.75rem;
+  text-align: right;
+  margin-top: -2rem;
+  color: grey;
+}
+
+.language-links a {
+  color: grey;
+}
+
+.language-links a:hover {
+  color: #444;
+}
+
 .section-divider {
   border: none;
   height: 1px;
